@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "teste.md",
+            "file": "teste 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste.md",
+                "file": "teste 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
+    "teste 2.md",
     "teste.md",
     "old keymap.md",
     "Estudos/Metas.md"
