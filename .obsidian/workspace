@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b369cf02b03625",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "56d628267fe00733",
+        "id": "3a48da721ffc64dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New test.md",
+            "file": "old keymap.md",
             "mode": "source"
           }
         }
@@ -76,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "old keymap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8b369cf02b03625",
+  "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
-    "Estudos/Metas.md",
-    "New test.md"
+    "old keymap.md",
+    "Estudos/Metas.md"
   ]
 }
