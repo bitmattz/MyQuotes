@@ -1,0 +1,2 @@
+# MyQuotes
+Obsidian vault
