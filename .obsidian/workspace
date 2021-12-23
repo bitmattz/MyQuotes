@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "old keymap.md",
+            "file": "Estudos/Node/introdução.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old keymap.md",
+                "file": "Estudos/Node/introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
-    "old keymap.md",
+    "Estudos/Node/introdução.md",
     "teste 2.md",
-    "teste.md",
-    "Estudos/Metas.md"
+    "old keymap.md",
+    "Estudos/Metas.md",
+    "teste.md"
   ]
 }
