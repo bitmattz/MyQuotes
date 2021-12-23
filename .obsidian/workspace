@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "cd205690aa720faa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estudos/Node/introdução.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -83,10 +94,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3a48da721ffc64dc",
+  "active": "cd205690aa720faa",
   "lastOpenFiles": [
     "Estudos/Node/introdução.md",
     "teste 2.md",
