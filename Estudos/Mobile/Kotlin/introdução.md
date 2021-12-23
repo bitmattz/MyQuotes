@@ -7,4 +7,3 @@ Kotlin é uma linguagem [open source](https://github.com/JetBrains/kotlin) forne
 Para começar, a primeira coisa que você vai precisar vai ser um lugar para programar. Uma opção seria escrever Kotlin 
 
 
-
