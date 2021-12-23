@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos/Node/introdução.md",
+            "file": "Estudos/Kotlin/introdução.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Estudos/Node/introdução.md",
+            "file": "Estudos/Kotlin/introdução.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudos/Node/introdução.md",
+                "file": "Estudos/Kotlin/introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
-    "Estudos/Node/introdução.md",
+    "Estudos/Kotlin/introdução.md",
     "teste 2.md",
     "old keymap.md",
     "Estudos/Metas.md",
