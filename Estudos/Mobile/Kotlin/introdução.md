@@ -9,5 +9,5 @@ Para começar, a primeira coisa que você vai precisar vai ser um lugar para pro
 ## Basicos Kotlin
 
 ### Variáveis
-Para criar uma variavel em Kotl
+Para criar uma variavel em Kotlin se usa a expressão **var**
 
