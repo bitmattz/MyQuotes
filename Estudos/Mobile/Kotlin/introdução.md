@@ -13,6 +13,7 @@ Para criar uma variavel em Kotlin se usa a expressão:
 ```var greeting: String = "Hello World!"```
 ou
 ```var greeting = "Hello World!"```
+neste caso o Kotlin já identifica qual tipo 
 
 Depois de você criar você pode modifica-la usando:
 ```var: String = "Hello World!"```
