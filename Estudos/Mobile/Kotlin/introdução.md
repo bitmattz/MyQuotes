@@ -12,7 +12,8 @@ Para começar, a primeira coisa que você vai precisar vai ser um lugar para pro
 Para criar uma variavel em Kotlin se usa a expressão:
 ```var: String = "Hello World!"```
 
-Depois de você criar você pode modifica-la 
+Depois de você criar você pode modifica-la usando:
+```var: String = "Hello World!"```
 
 
 
