@@ -18,9 +18,9 @@ neste caso o Kotlin já identifica qual tipo
 Depois de você criar você pode modifica-la usando:
 ```greeting = "Hello Kotlin!"```
 
-$$
+#### Strings
 
-Para juntar variaveis em uma string basta usar
+Para juntar variaveis em uma string basta usar o prefixo ``````
 
 #### Numbers
 
