@@ -16,7 +16,8 @@ ou
 neste caso o Kotlin já identifica qual tipo 
 
 Depois de você criar você pode modifica-la usando:
-```var: String = "Hello World!"```
+```greeting = "Hello Kotl!"```
+
 
 
 
