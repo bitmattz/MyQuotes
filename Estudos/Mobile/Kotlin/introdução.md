@@ -18,7 +18,10 @@ neste caso o Kotlin já identifica qual tipo
 Depois de você criar você pode modifica-la usando:
 ```greeting = "Hello Kotlin!"```
 
-#### Strings
+#### Numbers
+
+
+
 
 
 
