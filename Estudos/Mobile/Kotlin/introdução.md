@@ -30,6 +30,8 @@ Tambem tem como usar variaveis dentro do texto usando ```$```:
 
 #### Numbers
 
+Os tipos numericos do
+
 
 
 
