@@ -43,7 +43,9 @@ Se você quiser definir uma variavel como Floar ou como Long, é só adicionar *
 
 ```val num2 = 3.14f //Float```
 
-Você tambem consegue converter diferente tipos de tipo numericos usando a express
+Você tambem consegue converter diferente tipos de tipo numericos usando a função **toType**:
+
+```val num1 = 42.toFloat```
 
 
 
