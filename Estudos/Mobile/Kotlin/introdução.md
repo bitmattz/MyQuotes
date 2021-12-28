@@ -39,7 +39,10 @@ Por padrão, qualquer numero inteiro vai ser definido como **int**, e qualquer n
 
 Se você quiser definir uma variavel como Floar ou como Long, é só adicionar **'f'** ou **'L'** no final do numero:
 
-```val num```
+```val num1 = 42L //Long```
+
+```val num2 = 3.14f //Float```
+
 
 
 
