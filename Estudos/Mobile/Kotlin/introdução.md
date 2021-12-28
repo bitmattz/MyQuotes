@@ -30,7 +30,8 @@ Tambem tem como usar variaveis dentro do texto usando ```$```:
 
 #### Numbers
 
-Os tipos numericos que o Kotlin pode variar entre **Int, Long, Float e Double**. Int e Long são os 
+Os tipos numericos que o Kotlin pode variar entre **Int, Long, Float e Double**. Int e Long são os mais usados, enquanto Float e Double são usados para valores decimais.
+Por padrão
 
 
 
