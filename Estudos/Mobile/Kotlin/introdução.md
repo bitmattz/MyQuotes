@@ -30,7 +30,7 @@ Tambem tem como usar variaveis dentro do texto usando ```$```:
 
 #### Numbers
 
-Os tipos numericos do
+Os tipos numericos que o Kotlin pode variar entre **Int, Long, Float e Double**. Int e Long são os 
 
 
 
