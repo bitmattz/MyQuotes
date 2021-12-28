@@ -43,6 +43,8 @@ Se você quiser definir uma variavel como Floar ou como Long, é só adicionar *
 
 ```val num2 = 3.14f //Float```
 
+Você tamn
+
 
 
 
