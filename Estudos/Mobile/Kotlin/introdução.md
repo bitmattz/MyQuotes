@@ -32,7 +32,10 @@ Tambem tem como usar variaveis dentro do texto usando ```$```:
 
 Os tipos numericos que o Kotlin pode variar entre **Int, Long, Float e Double**. Int e Long são os mais usados, enquanto Float e Double são usados para valores decimais.
 Por padrão, qualquer numero inteiro vai ser definido como **int**, e qualquer numero decimal vai ser definido como **double**:
-```val num1 = 42 ```
+
+```val num1 = 42 // Int```
+
+```val num1 = 3.14 // Double```
 
 
 
