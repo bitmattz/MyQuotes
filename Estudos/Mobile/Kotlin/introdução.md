@@ -20,7 +20,8 @@ Depois de você criar você pode modifica-la usando:
 
 #### Strings
 
-Para juntar variaveis em uma string basta usar o prefixo ``````
+Para juntar variaveis em uma string basta usar o prefixo ```+```:
+
 
 #### Numbers
 
