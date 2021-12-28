@@ -21,7 +21,9 @@ Depois de você criar você pode modifica-la usando:
 #### Strings
 
 Para juntar variaveis em uma string basta usar o prefixo ```+```:
+```greeting = "Hello Kotlin!" + outraVariavel```
 
+T
 
 #### Numbers
 
