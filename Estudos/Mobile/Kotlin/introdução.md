@@ -49,7 +49,7 @@ Você tambem consegue converter diferente tipos de tipo numericos usando a funç
 
 ```val num2 = num1.toDouble()```
 
-#### Booleanos
+#### Booleans
 
 
 
