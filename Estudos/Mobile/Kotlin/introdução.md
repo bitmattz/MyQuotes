@@ -50,7 +50,7 @@ Você tambem consegue converter diferente tipos de tipo numericos usando a funç
 ```val num2 = num1.toDouble()```
 
 #### Booleans
-Kotlin também possui o tipo booleano
+Kotlin também possui o tipo booleano. uma variável booleana representa **true** ou **false**. Pa
 
 
 
