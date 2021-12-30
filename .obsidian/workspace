@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b3c7035a025f100f",
@@ -90,9 +89,9 @@
   "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
     "Estudos/Mobile/Kotlin/introdução.md",
-    "teste 2.md",
-    "old keymap.md",
     "Estudos/Metas.md",
+    "old keymap.md",
+    "teste 2.md",
     "teste.md"
   ]
 }
