@@ -56,6 +56,7 @@ Kotlin também possui o tipo booleano. uma variável booleana representa **true*
 
 ```val isBadDay = false```
 
+#### Booleans
 
 
 
