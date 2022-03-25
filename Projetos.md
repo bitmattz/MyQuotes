@@ -1,5 +1,10 @@
 # Ideias de projeto para fazer 
 
+### Web
+- [ ] ()
 
-## 
-- [ ] (for unchecked checkbox)
+### Desktop
+- [ ] ()
+
+### Mobile
+- [ ] ()
