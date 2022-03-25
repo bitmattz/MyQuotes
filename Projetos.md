@@ -2,7 +2,8 @@
 
 ### Web/Desktop/Mobile
 - [ ] To do
-- [ ] Diário 
+- [ ] Diário de rotina
+- [ ] 
 
 ### Web
 - [ ] ()
