@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sem título.md",
+            "file": "Projetos.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
+                "file": "Projetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "3a48da721ffc64dc",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Projetos.md",
     "teste 2.md",
     "old keymap.md",
     "Estudos/Mobile/Kotlin/introdução.md",
