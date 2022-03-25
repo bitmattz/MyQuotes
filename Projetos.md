@@ -3,6 +3,7 @@
 ### Web/Desktop/Mobile
 - [ ] To do
 - [ ] Diário de rotina
+- [ ] Gerenciador de Senhas
 - [ ] 
 
 ### Web
