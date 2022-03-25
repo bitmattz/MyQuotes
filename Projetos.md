@@ -4,7 +4,7 @@
 - [ ] To do
 - [ ] Diário de rotina
 - [ ] Gerenciador de Senhas
-- [ ] 
+- [ ] Gerenciador de Projetos
 
 ### Web
 - [ ] ()
