@@ -1,0 +1,1 @@
+**[[Mandibula de Caim]]** é um livro enigma/investigativo feito pelo autor **[[Edward Powys Mathers]]** também conhecido como **[[Torquemada]]**. A obra se trata d
