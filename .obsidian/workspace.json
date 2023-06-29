@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "601edade3aea6bc3",
+        "id": "bb280da497e1c1f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a77380dbe29fd409",
+            "id": "cf0657efd0b014f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,7 +107,7 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "67e9fa35fcd79b22",
+  "active": "cf0657efd0b014f2",
   "lastOpenFiles": [
     "Estudos",
     "Diversos",
