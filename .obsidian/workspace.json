@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diversos/Mandibula de Caim/Introdução.md",
+                "file": "Programação/Go/Introdução.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7868be3961598137",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0ad1f45893dc030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diversos/Mandibula de Caim/Introdução.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diversos/Mandibula de Caim/Introdução.md",
+                "file": "Programação/Go/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +115,8 @@
   "active": "cf0657efd0b014f2",
   "lastOpenFiles": [
     "Diversos/Mandibula de Caim/Introdução.md",
+    "Programação/Go/Introdução.md",
+    "Programação/Go",
     "Diversos/Mandibula de Caim",
     "Estudos",
     "Diversos",
