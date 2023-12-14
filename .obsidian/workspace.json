@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5037760e74dcb47b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "cf0657efd0b014f2",
+  "active": "5037760e74dcb47b",
   "lastOpenFiles": [
     "Diversos/Mandibula de Caim/Introdução.md",
     "Programação/Go/Introdução.md",
